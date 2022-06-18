@@ -1,0 +1,15 @@
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.exe
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.deps.json
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.runtimeconfig.json
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.dll
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\bin\Debug\net6.0\MorseCodeTranslator.pdb
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.csproj.AssemblyReference.cache
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.dll
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\refint\MorseCodeTranslator.dll
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.pdb
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\MorseCodeTranslator.genruntimeconfig.cache
+C:\Users\Soldimus\Documents\Projects\morse-code-translator\MorseCodeTranslator\obj\Debug\net6.0\ref\MorseCodeTranslator.dll
